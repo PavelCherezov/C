@@ -1,0 +1,21 @@
+
+
+^
+|
+2 pustie str
+fnldngljhdrfjghf <- prosto str
+ыврпрцушгыва шуш <- russian str
+      <- probel
+
+
+
+^
+|
+3 pustie str
+		 <- 2 tab
+2 tab -> 		
+	<- tab ->	
+sajfjs
+
+
+
